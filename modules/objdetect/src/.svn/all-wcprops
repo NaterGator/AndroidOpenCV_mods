@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/opencv/modules/objdetect/src
+END
+files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/opencv/modules/objdetect/src/files.txt
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/objdetect/src/precomp.cpp
+END
+precomp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/objdetect/src/precomp.hpp
+END
+haar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/objdetect/src/haar.cpp
+END
+cascadedetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/opencv/modules/objdetect/src/cascadedetect.cpp
+END
+hog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/modules/objdetect/src/hog.cpp
+END

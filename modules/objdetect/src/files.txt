@@ -1,0 +1,4 @@
+cascadedetect.cpp \
+haar.cpp \
+hog.cpp \
+precomp.cpp

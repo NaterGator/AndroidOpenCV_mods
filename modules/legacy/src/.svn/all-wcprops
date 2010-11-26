@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/opencv/modules/legacy/src
+END
+camshift.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/camshift.cpp
+END
+facetemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/facetemplate.h
+END
+findface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/findface.cpp
+END
+_facedetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/_facedetection.h
+END
+eigenobjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/eigenobjects.cpp
+END
+facedetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/facedetection.h
+END
+face.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/face.h
+END
+lee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/lee.cpp
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/video.cpp
+END
+_vectrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/_vectrack.h
+END
+hmm1d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/hmm1d.cpp
+END
+epilines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/epilines.cpp
+END
+_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/_matrix.h
+END
+extendededges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/extendededges.cpp
+END
+contourtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/contourtree.cpp
+END
+lines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/lines.cpp
+END
+lcm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/lcm.cpp
+END
+subdiv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/subdiv2.cpp
+END
+pgh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/pgh.cpp
+END
+auxutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/auxutils.cpp
+END
+vecfacetracking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/vecfacetracking.cpp
+END
+scanlines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/scanlines.cpp
+END
+prewarp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/prewarp.cpp
+END
+calibfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/calibfilter.cpp
+END
+hmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/hmm.cpp
+END
+mat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/mat.cpp
+END
+clique.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/clique.cpp
+END
+snakes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/snakes.cpp
+END
+hmmobs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/hmmobs.cpp
+END
+_vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/_vm.h
+END
+levmar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/levmar.cpp
+END
+levmarprojbandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/levmarprojbandle.cpp
+END
+facetemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/facetemplate.cpp
+END
+corrimages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/corrimages.cpp
+END
+dominants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/dominants.cpp
+END
+facedetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/facedetection.cpp
+END
+face.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/face.cpp
+END
+files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/opencv/modules/legacy/src/files.txt
+END
+texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/texture.cpp
+END
+segment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/segment.cpp
+END
+trifocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/trifocal.cpp
+END
+calcimagehomography.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/calcimagehomography.cpp
+END
+lmeds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/lmeds.cpp
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/precomp.cpp
+END
+enmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/enmin.cpp
+END
+precomp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/precomp.hpp
+END
+createhandmask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/createhandmask.cpp
+END
+decomppoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/decomppoly.cpp
+END
+levmartrif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/levmartrif.cpp
+END
+correspond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/correspond.cpp
+END
+findhandregion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/findhandregion.cpp
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/image.cpp
+END
+3dtracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/3dtracker.cpp
+END
+morphcontours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/morphcontours.cpp
+END
+morphing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/morphing.cpp
+END
+dpstereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/dpstereo.cpp
+END
+condens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/legacy/src/condens.cpp
+END

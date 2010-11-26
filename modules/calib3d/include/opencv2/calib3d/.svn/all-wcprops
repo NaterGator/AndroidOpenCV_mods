@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/opencv/modules/calib3d/include/opencv2/calib3d
+END
+calib3d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/opencv/modules/calib3d/include/opencv2/calib3d/calib3d.hpp
+END
+compat_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/opencv/modules/calib3d/include/opencv2/calib3d/compat_c.h
+END

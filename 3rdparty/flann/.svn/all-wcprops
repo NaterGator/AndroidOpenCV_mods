@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann
+END
+flann.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/flann.cpp
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/constants.h
+END
+flann.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/flann.h
+END
+flann.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/flann.hpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/Android.mk
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/CMakeLists.txt
+END

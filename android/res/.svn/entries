@@ -1,0 +1,43 @@
+10
+
+dir
+135
+http://android-opencv.googlecode.com/svn/trunk/opencv/android/res
+http://android-opencv.googlecode.com/svn
+
+
+
+2010-07-10T05:51:21.963161Z
+104
+ethan.rublee@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+042b2679-f83f-a43e-35e8-d19b5cc533ad
+
+values
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

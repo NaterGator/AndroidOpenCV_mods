@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/opencv/modules/contrib/src
+END
+files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/opencv/modules/contrib/src/files.txt
+END
+spinimages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/spinimages.cpp
+END
+selfsimilarity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/selfsimilarity.cpp
+END
+octree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/octree.cpp
+END
+ba.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/ba.cpp
+END
+fuzzymeanshifttracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/fuzzymeanshifttracker.cpp
+END
+precomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/precomp.cpp
+END
+quadsubpix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/quadsubpix.cpp
+END
+precomp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/precomp.hpp
+END
+adaptiveskindetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/src/adaptiveskindetector.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann/constants.h
+END
+flann.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann/flann.h
+END
+flann.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann/flann.hpp
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann/random.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann/matrix.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/include/flann/common.h
+END

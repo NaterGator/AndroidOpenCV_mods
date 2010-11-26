@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/135/trunk/opencv
+END
+libs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/123/trunk/opencv/libs.mk
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/trunk/opencv/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/20/trunk/opencv/AndroidManifest.xml
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/131/trunk/opencv/Android.mk
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/134/trunk/opencv/build.sh
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/opencv/Application.mk
+END
+README.android.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/41/trunk/opencv/README.android.txt
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/115/trunk/opencv/clean.sh
+END
+includes.mk
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/109/trunk/opencv/includes.mk
+END

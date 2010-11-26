@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/opencv/3rdparty/libjasper
+END
+jpc_tsfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_tsfb.h
+END
+jpc_mqenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mqenc.c
+END
+jpc_mqenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mqenc.h
+END
+jas_tvp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_tvp.c
+END
+jpc_t1enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t1enc.c
+END
+jpc_t1enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t1enc.h
+END
+jpc_qmfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_qmfb.c
+END
+jpc_mqdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mqdec.c
+END
+jpc_qmfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_qmfb.h
+END
+jpc_mqdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mqdec.h
+END
+jpc_t1dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t1dec.c
+END
+jas_tmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_tmr.c
+END
+jpc_mqcod.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mqcod.c
+END
+jpc_t1dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t1dec.h
+END
+jpc_mqcod.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mqcod.h
+END
+jpc_t1cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t1cod.c
+END
+jpc_t2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t2enc.c
+END
+jpc_t1cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t1cod.h
+END
+jpc_t2enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t2enc.h
+END
+jpc_fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_fix.h
+END
+jpc_tagtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_tagtree.c
+END
+jpc_tagtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_tagtree.h
+END
+jpc_t2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t2dec.c
+END
+jas_getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_getopt.c
+END
+jas_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_init.c
+END
+jpc_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_cs.c
+END
+jpc_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_enc.c
+END
+jpc_t2dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t2dec.h
+END
+jas_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_string.c
+END
+jas_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_malloc.c
+END
+jpc_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_enc.h
+END
+jpc_cs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_cs.h
+END
+jpc_t2cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t2cod.c
+END
+jpc_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_util.c
+END
+jpc_t2cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_t2cod.h
+END
+jpc_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_util.h
+END
+jp2_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jp2_enc.c
+END
+jas_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_version.c
+END
+jas_iccdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_iccdata.c
+END
+jas_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_seq.c
+END
+jpc_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_math.c
+END
+jpc_flt.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_flt.h
+END
+jpc_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_dec.c
+END
+jas_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_stream.c
+END
+jpc_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_math.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/CMakeLists.txt
+END
+jpc_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_dec.h
+END
+jpc_bs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_bs.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/LICENSE
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/123/trunk/opencv/3rdparty/libjasper/Android.mk
+END
+jpc_bs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_bs.h
+END
+jp2_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jp2_dec.c
+END
+jpc_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_cod.h
+END
+jp2_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jp2_dec.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/README
+END
+jas_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_image.c
+END
+jpc_mct.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mct.c
+END
+jp2_cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jp2_cod.c
+END
+jas_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_debug.c
+END
+jpc_mct.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_mct.h
+END
+jp2_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jp2_cod.h
+END
+jpc_tsfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jpc_tsfb.c
+END
+jas_icc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_icc.c
+END
+jas_cm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/3rdparty/libjasper/jas_cm.c
+END

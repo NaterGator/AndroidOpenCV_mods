@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/116/trunk/opencv/modules/contrib
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/116/trunk/opencv/modules/contrib/Android.mk
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/contrib/CMakeLists.txt
+END

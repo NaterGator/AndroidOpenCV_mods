@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/109/trunk/opencv/modules/calib3d
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/109/trunk/opencv/modules/calib3d/Android.mk
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/calib3d/CMakeLists.txt
+END

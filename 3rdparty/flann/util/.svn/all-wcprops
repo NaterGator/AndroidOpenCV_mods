@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util
+END
+result_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/result_set.h
+END
+logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/logger.cpp
+END
+random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/random.cpp
+END
+object_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/object_factory.h
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/heap.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/logger.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/random.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/timer.h
+END
+allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/allocator.h
+END
+saving.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/saving.cpp
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/matrix.h
+END
+saving.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/saving.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/3rdparty/flann/util/common.h
+END

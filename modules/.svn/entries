@@ -1,0 +1,138 @@
+10
+
+dir
+135
+http://android-opencv.googlecode.com/svn/trunk/opencv/modules
+http://android-opencv.googlecode.com/svn
+
+
+
+2010-08-14T03:10:13.596632Z
+131
+ethan.rublee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+042b2679-f83f-a43e-35e8-d19b5cc533ad
+
+python
+dir
+
+traincascade
+dir
+
+highgui
+dir
+
+Android.mk
+file
+
+
+
+
+2010-09-09T15:08:55.941000Z
+16608615ed0cc8b31646e9851a90e379
+2010-06-03T00:20:12.313647Z
+6
+ethan.rublee@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38
+
+core
+dir
+
+contrib
+dir
+
+imgproc
+dir
+
+calib3d
+dir
+
+objdetect
+dir
+
+features2d
+dir
+
+ffmpeg
+dir
+
+legacy
+dir
+
+video
+dir
+
+haartraining
+dir
+
+ml
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2010-09-09T15:08:55.941000Z
+0a4056d22e329e2f3b4970c0e49cfd03
+2010-06-03T00:20:12.313647Z
+6
+ethan.rublee@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+498
+

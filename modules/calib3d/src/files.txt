@@ -1,0 +1,11 @@
+calibinit.cpp \
+calibration.cpp \
+checkchessboard.cpp \
+fundam.cpp \
+modelest.cpp \
+posit.cpp \
+precomp.cpp \
+stereobm.cpp \
+stereogc.cpp \
+stereosgbm.cpp \
+triangulate.cpp

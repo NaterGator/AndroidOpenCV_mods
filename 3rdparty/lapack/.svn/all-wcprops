@@ -1,0 +1,1835 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack
+END
+dpotrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dpotrf.c
+END
+slals0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slals0.c
+END
+dlalsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlalsd.c
+END
+slassq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slassq.c
+END
+slasq5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasq5.c
+END
+dsytd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsytd2.c
+END
+dsytrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsytrd.c
+END
+sstebz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sstebz.c
+END
+dlaeda.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaeda.c
+END
+slaed5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed5.c
+END
+slarfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarfg.c
+END
+sorm2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorm2l.c
+END
+slas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slas2.c
+END
+slamrg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slamrg.c
+END
+dlasq2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasq2.c
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dscal.c
+END
+slasd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd1.c
+END
+slarre.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarre.c
+END
+dlaswp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaswp.c
+END
+sgetrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgetrf.c
+END
+dlaed2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed2.c
+END
+slaev2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaev2.c
+END
+dormlq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dormlq.c
+END
+dorml2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorml2.c
+END
+dlazq4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlazq4.c
+END
+dlarrb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrb.c
+END
+dlabad.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlabad.c
+END
+drot.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/drot.c
+END
+dlarft.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarft.c
+END
+sstemr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sstemr.c
+END
+dlasd6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd6.c
+END
+dlartg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlartg.c
+END
+dlarrj.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrj.c
+END
+dtrtrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dtrtrs.c
+END
+ssyr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssyr2.c
+END
+dgeqr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgeqr2.c
+END
+dlarrr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrr.c
+END
+sgesv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgesv.c
+END
+dgetrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgetrs.c
+END
+dpotf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dpotf2.c
+END
+dsymv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsymv.c
+END
+dormqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dormqr.c
+END
+slanst.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slanst.c
+END
+slasda.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasda.c
+END
+sorglq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorglq.c
+END
+sorgl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorgl2.c
+END
+dtrti2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dtrti2.c
+END
+slasq6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasq6.c
+END
+dlaset.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaset.c
+END
+slaed6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed6.c
+END
+dger.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dger.c
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dnrm2.c
+END
+dlasyf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasyf.c
+END
+slasr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasr.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/daxpy.c
+END
+slasdq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasdq.c
+END
+dlasq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasq3.c
+END
+slasd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd2.c
+END
+slarrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrf.c
+END
+dgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgemm.c
+END
+dlansy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlansy.c
+END
+sgetf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgetf2.c
+END
+dlaed3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed3.c
+END
+s_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/s_copy.c
+END
+dlaruv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaruv.c
+END
+scopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/scopy.c
+END
+dlagtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlagtf.c
+END
+s_cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/s_cmp.c
+END
+strmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/strmm.c
+END
+dorm2r.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorm2r.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/Android.mk
+END
+dlarrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrc.c
+END
+slasrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasrt.c
+END
+slarrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrv.c
+END
+sorgqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorgqr.c
+END
+dlasd7.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd7.c
+END
+slalsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slalsa.c
+END
+dlarrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrk.c
+END
+isamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/isamax.c
+END
+dstein.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dstein.c
+END
+dlaisnan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaisnan.c
+END
+dlaneg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaneg.c
+END
+spotrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/spotrs.c
+END
+sswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sswap.c
+END
+sgelq2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgelq2.c
+END
+dsteqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsteqr.c
+END
+dgelqf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgelqf.c
+END
+sgebrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgebrd.c
+END
+sgebd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgebd2.c
+END
+sdot.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sdot.c
+END
+dsytrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsytrf.c
+END
+xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/xerbla.c
+END
+dsyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsyr2k.c
+END
+sorg2r.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorg2r.c
+END
+slaed7.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed7.c
+END
+dormbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dormbr.c
+END
+sormtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sormtr.c
+END
+sgeqrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgeqrf.c
+END
+dlabrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlabrd.c
+END
+dlasq4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasq4.c
+END
+dlar1v.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlar1v.c
+END
+slasd3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd3.c
+END
+dgesdd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgesdd.c
+END
+dlauu2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlauu2.c
+END
+dlaed4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed4.c
+END
+dgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgemv.c
+END
+slamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slamch.c
+END
+dlasd0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd0.c
+END
+strsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/strsm.c
+END
+dlarrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrd.c
+END
+dasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dasum.c
+END
+strmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/strmv.c
+END
+ssyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssyrk.c
+END
+dlasd8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd8.c
+END
+dbdsqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dbdsqr.c
+END
+slascl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slascl.c
+END
+dlange.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlange.c
+END
+ssyevr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssyevr.c
+END
+dormql.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dormql.c
+END
+sorgbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorgbr.c
+END
+dpotri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dpotri.c
+END
+dgelsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgelsd.c
+END
+dlas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlas2.c
+END
+slauum.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slauum.c
+END
+slae2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slae2.c
+END
+slaed0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed0.c
+END
+slarfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarfb.c
+END
+slapy2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slapy2.c
+END
+dsytf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsytf2.c
+END
+sgels.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgels.c
+END
+dlals0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlals0.c
+END
+slaebz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaebz.c
+END
+slaed8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed8.c
+END
+dlassq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlassq.c
+END
+strtri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/strtri.c
+END
+s_cat.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/s_cat.c
+END
+dlasq5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasq5.c
+END
+slatrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slatrd.c
+END
+slasd4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd4.c
+END
+slacpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slacpy.c
+END
+dstebz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dstebz.c
+END
+slagts.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slagts.c
+END
+sgetri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgetri.c
+END
+dlaed5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed5.c
+END
+dorm2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorm2l.c
+END
+dlarfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarfg.c
+END
+dsyr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsyr2.c
+END
+slarnv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarnv.c
+END
+dlamrg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlamrg.c
+END
+slarf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarf.c
+END
+dgesv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgesv.c
+END
+dlasd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd1.c
+END
+dlarre.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarre.c
+END
+dgetrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgetrf.c
+END
+dlaev2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaev2.c
+END
+dstemr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dstemr.c
+END
+pow_ri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/pow_ri.c
+END
+slasq1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasq1.c
+END
+dlasr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasr.c
+END
+precomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/precomp.c
+END
+ssterf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssterf.c
+END
+slaed1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed1.c
+END
+slazq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slazq3.c
+END
+dcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dcopy.c
+END
+slaed9.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed9.c
+END
+dtrmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dtrmm.c
+END
+slarra.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarra.c
+END
+dlanst.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlanst.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/COPYING
+END
+dorglq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorglq.c
+END
+dlasda.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasda.c
+END
+dorgl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorgl2.c
+END
+slasdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasdt.c
+END
+dlasq6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasq6.c
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ddot.c
+END
+slasd5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd5.c
+END
+dlaed6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed6.c
+END
+sbdsdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sbdsdc.c
+END
+idamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/idamax.c
+END
+dlasdq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasdq.c
+END
+dlasd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd2.c
+END
+slasv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasv2.c
+END
+dlarrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrf.c
+END
+dgetf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgetf2.c
+END
+spotrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/spotrf.c
+END
+dswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dswap.c
+END
+slalsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slalsd.c
+END
+ssytrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssytrd.c
+END
+ssytd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssytd2.c
+END
+slaeda.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaeda.c
+END
+dlasrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasrt.c
+END
+dlarrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarrv.c
+END
+dorgqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorgqr.c
+END
+dlalsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlalsa.c
+END
+f77_aloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/f77_aloc.c
+END
+slasq2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasq2.c
+END
+slaswp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaswp.c
+END
+slaed2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed2.c
+END
+dpotrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dpotrs.c
+END
+sormlq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sormlq.c
+END
+slazq4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slazq4.c
+END
+sorml2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorml2.c
+END
+dsytri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsytri.c
+END
+dgelq2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgelq2.c
+END
+slarrb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrb.c
+END
+slabad.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slabad.c
+END
+dgebrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgebrd.c
+END
+dgebd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgebd2.c
+END
+dtrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dtrsm.c
+END
+slarft.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarft.c
+END
+slartg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slartg.c
+END
+dtrmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dtrmv.c
+END
+slasd6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd6.c
+END
+dsyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsyrk.c
+END
+slarrj.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrj.c
+END
+dorg2r.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorg2r.c
+END
+dlaed7.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed7.c
+END
+strtrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/strtrs.c
+END
+sgeqr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgeqr2.c
+END
+sscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sscal.c
+END
+slarrr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrr.c
+END
+dormtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dormtr.c
+END
+sgetrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgetrs.c
+END
+dgeqrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgeqrf.c
+END
+slaisnan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaisnan.c
+END
+dlasd3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd3.c
+END
+spotf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/spotf2.c
+END
+sormqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sormqr.c
+END
+strti2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/strti2.c
+END
+dlae2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlae2.c
+END
+dlamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlamch.c
+END
+iparmq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/iparmq.c
+END
+slaset.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaset.c
+END
+dgels.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgels.c
+END
+dlascl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlascl.c
+END
+slasq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasq3.c
+END
+slansy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slansy.c
+END
+slaed3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed3.c
+END
+slaruv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaruv.c
+END
+dsyevr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsyevr.c
+END
+ilaenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ilaenv.c
+END
+dorgbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dorgbr.c
+END
+slagtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slagtf.c
+END
+ssymv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssymv.c
+END
+sorm2r.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sorm2r.c
+END
+pow_ii.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/pow_ii.c
+END
+slarrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrc.c
+END
+srot.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/srot.c
+END
+dlauum.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlauum.c
+END
+dlarf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarf.c
+END
+dlaed0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed0.c
+END
+dlarfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarfb.c
+END
+dlapy2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlapy2.c
+END
+slasd7.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd7.c
+END
+slarrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrk.c
+END
+dlaebz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaebz.c
+END
+dlaed8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed8.c
+END
+snrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/snrm2.c
+END
+saxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/saxpy.c
+END
+sstein.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sstein.c
+END
+sgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgemm.c
+END
+dtrtri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dtrtri.c
+END
+slaneg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaneg.c
+END
+dlatrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlatrd.c
+END
+dlasd4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd4.c
+END
+dlacpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlacpy.c
+END
+dgetri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dgetri.c
+END
+dlagts.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlagts.c
+END
+ssteqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssteqr.c
+END
+sgelqf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgelqf.c
+END
+pow_di.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/pow_di.c
+END
+dlarnv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarnv.c
+END
+ssyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ssyr2k.c
+END
+sger.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sger.c
+END
+sormbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sormbr.c
+END
+slasq4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasq4.c
+END
+slabrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slabrd.c
+END
+slar1v.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slar1v.c
+END
+sgesdd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgesdd.c
+END
+slauu2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slauu2.c
+END
+slaed4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slaed4.c
+END
+ieeeck.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/ieeeck.c
+END
+dlasq1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasq1.c
+END
+slasd0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd0.c
+END
+dsterf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsterf.c
+END
+slarrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slarrd.c
+END
+dsytrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsytrs.c
+END
+dlaed1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed1.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/CMakeLists.txt
+END
+slasd8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slasd8.c
+END
+dlazq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlazq3.c
+END
+sbdsqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sbdsqr.c
+END
+dlaed9.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlaed9.c
+END
+dlarra.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlarra.c
+END
+slange.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/slange.c
+END
+dlasdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasdt.c
+END
+dlasd5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasd5.c
+END
+sormql.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sormql.c
+END
+spotri.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/spotri.c
+END
+dsyr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dsyr.c
+END
+sgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgemv.c
+END
+sgelsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sgelsd.c
+END
+dbdsdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dbdsdc.c
+END
+sasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/sasum.c
+END
+dlasv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/3rdparty/lapack/dlasv2.c
+END

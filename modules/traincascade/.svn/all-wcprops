@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade
+END
+features.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/features.cpp
+END
+haarfeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/haarfeatures.h
+END
+traincascade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/traincascade.cpp
+END
+lbpfeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/lbpfeatures.h
+END
+traincascade_features.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/traincascade_features.h
+END
+boost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/boost.cpp
+END
+imagestorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/imagestorage.cpp
+END
+cascadeclassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/cascadeclassifier.cpp
+END
+haarfeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/haarfeatures.cpp
+END
+boost.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/boost.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/CMakeLists.txt
+END
+lbpfeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/lbpfeatures.cpp
+END
+imagestorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/imagestorage.h
+END
+cascadeclassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/opencv/modules/traincascade/cascadeclassifier.h
+END

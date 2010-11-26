@@ -1,0 +1,14 @@
+calonder.cpp \
+descriptors.cpp \
+detectors.cpp \
+fast.cpp \
+files.txt \
+keypoint.cpp \
+mser.cpp \
+oneway.cpp \
+planardetect.cpp \
+precomp.cpp \
+precomp.hpp \
+sift.cpp \
+stardetector.cpp \
+surf.cpp

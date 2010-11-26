@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/123/trunk/opencv/include/opencv
+END
+cvconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/opencv/include/opencv/cvconfig.h
+END
+cxeigen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cxeigen.hpp
+END
+cvwimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cvwimage.h
+END
+cxcore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cxcore.hpp
+END
+cxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cxcore.h
+END
+highgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/include/opencv/highgui.h
+END
+cvaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cvaux.h
+END
+cxmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cxmisc.h
+END
+cvaux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cvaux.hpp
+END
+ml.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/opencv/include/opencv/ml.h
+END
+cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cv.h
+END
+cv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/opencv/include/opencv/cv.hpp
+END
